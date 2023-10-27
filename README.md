@@ -1,4 +1,5 @@
-# devops_part1
-journey of learning git
+Journey of learning git
 basic git commands
+This Is my first Git Reprository.
+Author- Vinay varma
 
